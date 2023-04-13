@@ -1,4 +1,5 @@
 # ETF Portfolio Analysis
+This project involves building a financial database and web application using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF consisting of four stocks: GOST, GS, PYPL, and SQ. The analysis covers the daily returns of the ETF stocks both individually and as a whole. Visualizations are deployed to a web application using the Voilà library.
 
 # Technologies
 * Python 3
